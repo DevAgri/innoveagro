@@ -1,9 +1,21 @@
 # innoveAgro
 
+Participantes
+Carlos Emilio de A. Cacho
+Evandro da Silva Pinto
+Marlon Cicero U. Araúju 
+Simone Aparecida P. Marques
+Adricson Miguel da Silva Provenssi
 
+
+##licença
 The MIT License (MIT)
 
-Copyright (c) 2017 Carlos Emilio de Andrade Cacho
+Copyright (c) 2017 Carlos Emilio de A. Cacho
+Evandro da Silva Pinto
+Marlon Cicero U. Araúju 
+Simone Aparecida P. Marques
+Adricson Miguel da Silva Provenssi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
